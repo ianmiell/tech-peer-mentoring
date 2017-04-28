@@ -85,7 +85,7 @@ I'll let them know. It helps me if you give feedback in these cases.
 It is most likely that people drop out because they find the time commitment
 difficult. Please bear that in mind.
 
-Q. Will this be monetized? Will my email be shared/sold/stored in a database?
+Q. Will this be monetized? 
 
 A. No.
 
