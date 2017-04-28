@@ -39,12 +39,15 @@ If your application is accepted (see below for Application info), you can either
 solicit mutual mentoring through the group forum, or contact the moderator, who
 can find someone appropriate and hook you up.
 
-Once matched, it's suggested to agree and commit to a time for one hour a week
-and a means of communication.
+Once matched, it's suggested to have a first trial session to see if you're well
+matched.
 
 It's suggested you start by dividing the hour into two halves, and swap the
 direction of mentoring on the half hour. Later you might prefer to alternate, or
 make it more free-form.
+
+After that, agree and commit to a time for one hour a week
+and a means of communication, or drop out if you think it won't work out.
 
 You are free to renegotiate this any of this with your assigned partner as you
 wish.
@@ -58,11 +61,11 @@ Some guidance:
 
 ## Applications
 
-Application is not like for a job. If you pass the first stage (which is a
+Application to the group is not like for a job. If you pass the first stage (which is a
 sanity check of your credentials), there will be a short Skype/Hangout chat (or
 similar).
 
-There will be no 'whiteboarding' type questions. The purpose is to work out what
+There will be no 'whiteboarding' or algorithm, or direct technical questions. The purpose is to work out what
 you want from the process, and what you can offer so you can be appropriately
 matched.
 
