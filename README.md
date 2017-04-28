@@ -89,6 +89,9 @@ Q. Will this be monetized?
 
 A. No.
 
+Q. What kind of skills can I offer?
+
+A. Anything you think relevant/useful. Could be anything from 'vim' to 'general programming'. The categories are up to you.
 
 
 
